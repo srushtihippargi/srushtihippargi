@@ -15,7 +15,7 @@
 ---
 
 ## 📈 GitHub Stats:
-![Srushti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srushti-hippargi&show_icons=true&theme=dark&count_private=true)
+![Srushti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srushtihippargi&show_icons=true&theme=dark&count_private=true)
 
 📫 **How to reach me**:  
 📩 Email: [YourEmail@gmail.com](mailto:shipparg@umcih.edu)  
