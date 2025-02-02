@@ -16,7 +16,7 @@
 
 📫 **Feel free to reach out to me**:  
 📩 Email: [Email](mailto:shipparg@umcih.edu)  
-💼 LinkedIn: [LinkedIn]([[https://www.linkedin.com/in/srushti-hippargi]
+💼 LinkedIn: [LinkedIn]([https://www.linkedin.com/in/srushti-hippargi])
 
 ---
 
