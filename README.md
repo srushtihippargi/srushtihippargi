@@ -5,7 +5,7 @@
 
 ---
 
-## 🔧 Technologies I Work With:
+# 🔧 Technologies:
 - 🐍 **Python**, **C++**
 - 📊 **Jupyter**, **TensorFlow**, **PyTorch**, **Scikit-Learn**
 - 🚘 **ROS/ROS2**, **CARLA**, **Gazebo**
@@ -14,12 +14,9 @@
 
 ---
 
-## 📈 GitHub Stats:
-![Srushti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srushtihippargi&show_icons=true&theme=dark&count_private=true)
-
-📫 **How to reach me**:  
-📩 Email: [YourEmail@gmail.com](mailto:shipparg@umcih.edu)  
-💼 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/srushti-hippargi](https://www.linkedin.com/in/srushtihippargi/))  
+📫 **Feel free to reach out to me**:  
+📩 Email: [Email](mailto:shipparg@umcih.edu)  
+💼 LinkedIn: [LinkedIn]([https://www.linkedin.com/in/srushti-hippargi](https://www.linkedin.com/in/srushtihippargi/))  
 
 ---
 
