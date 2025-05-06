@@ -12,7 +12,7 @@
 
 
 ---
-<p align="left">My interest lies at the intersection of perception, simulation, and geometric learning for robotics/AV. I’ve worked on uncertainty-aware scene completion, dynamic reconstruction using Gaussian splatting, and vision-language navigation grounded in spatial reasoning.</p>
+<p align="left">My interest lies at the intersection of learning in Perception, SLAM, Navigation and Controls for Robotics and Autonomous Vehicles. I’ve worked on uncertainty-aware scene completion, dynamic reconstruction using Gaussian splatting, and vision-language navigation grounded in spatial reasoning.</p>
 
 
 ---
