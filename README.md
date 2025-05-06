@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 
-  <br><span style="font-weight:600;">Robotics / Simulation</span>
+  <br><span style="font-weight:600;">Robotics / Simulation</span><br>
   <img src="https://img.shields.io/badge/ROS&nbsp;2-22314E?style=flat-square&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/CARLA-2D2D2D?style=flat-square&logo=car&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gazebo-844FBA?style=flat-square&logo=gazebo&logoColor=white"/>
