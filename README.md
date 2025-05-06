@@ -12,7 +12,8 @@
 
 
 ---
-<p align="left">My work sits at the intersection of learning‑based perception, geometric reasoning, and robotics software. I have experience implementing methodologies from sensor fusion and SLAM to motion planning that transform raw sensor data into autonomous action. I’m currently focusing on equivariant deep networks and uncertainty‑aware scene completion.</p>
+<p align="left">My interest lies at the intersection of perception, simulation, and geometric learning for robotics/AV. I’ve worked on uncertainty-aware scene completion, dynamic reconstruction using Gaussian splatting, and vision-language navigation grounded in spatial reasoning.</p>
+
 
 ---
 
