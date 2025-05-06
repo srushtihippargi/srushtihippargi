@@ -26,17 +26,19 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 
   <!-- Robotics / Simulation -->
-  <br><strong>Robotics / Simulation&nbsp;</strong><br>
+  <strong>Robotics / Simulation&nbsp;</strong>
   <img src="https://img.shields.io/badge/ROS 2-22314E?style=flat-square&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/CARLA-2D2D2D?style=flat-square&logo=car&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gazebo-844FBA?style=flat-square&logo=gazebo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Habitat%20Sim-666?style=flat-square&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Pybullet-FF6F00?style=flat-square&logoColor=white"/>
 
   <!-- Libraries -->
-  <br><strong>Libraries&nbsp;</strong><br>
+  <strong>Libraries&nbsp;</strong>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit-learn-76B900?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
