@@ -17,17 +17,17 @@
 ---
 
 ### Core Tools
-<!-- Core Tools -->
-<p align="left" style="margin:0; line-height:1.25;">
+<p align="left" style="margin:0; line-height:1.2;">
 
   <!-- Languages / ML -->
-  <span style="font-weight:600;">Languages / ML</span><br>
+  <span style="font-weight:600; display:inline-block; margin:0;">Languages&nbsp;/&nbsp;ML</span><br>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 
-  <br><span style="font-weight:600;">Robotics / Simulation</span><br>
+  <!-- Robotics / Simulation -->
+  <br><span style="font-weight:600; display:inline-block; margin:0;">Robotics&nbsp;/&nbsp;Simulation</span><br>
   <img src="https://img.shields.io/badge/ROS&nbsp;2-22314E?style=flat-square&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/CARLA-2D2D2D?style=flat-square&logo=car&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gazebo-844FBA?style=flat-square&logo=gazebo&logoColor=white"/>
@@ -35,7 +35,8 @@
   <img src="https://img.shields.io/badge/Habitat%20Sim-666666?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyBullet-FF6F00?style=flat-square&logo=python&logoColor=white"/>
 
-  <br><span style="font-weight:600;">Libraries</span><br>
+  <!-- Libraries -->
+  <br><span style="font-weight:600; display:inline-block; margin:0;">Libraries</span><br>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white"/>
